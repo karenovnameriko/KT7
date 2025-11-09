@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace KT7_2
+namespace KT7_3
 {
     public class Calculator
     {
